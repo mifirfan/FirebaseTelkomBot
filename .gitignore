@@ -1,1 +1,23 @@
-node_modules
+# Node modules
+node_modules/
+npm-debug.log
+
+# Env files
+.env
+
+# Build output
+dist/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+allfileshas.txt
